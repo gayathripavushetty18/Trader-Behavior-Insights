@@ -45,7 +45,6 @@ This analysis aims to uncover patterns between emotional sentiment in the crypto
 2. **Grouped trades by sentiment** to compare average `Closed PnL`, trade sizes, and frequency.
 3. **Visualized profit/loss distributions** using a boxplot:
 
-![Closed PnL Distribution](e6c84aac-e103-4820-a235-d4fc150d4001.png)
 
 ### 📈 Key Insight:
 - Trades executed during `Greed` and `Extreme Greed` days show wider variance in PnL, indicating more risk-taking behavior.
